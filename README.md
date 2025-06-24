@@ -63,7 +63,7 @@ udmdet
 ## Train
 
 ```
-$ python tools/train.py configs/CIDNet/udmdet_tood_r50_fpn_anchor_based_2x_duo.py
+$ python tools/train.py configs/CIDNet/CIDNet_tood_r50_fpn_based_2x_duo.py
 ```
 
 
