@@ -1,5 +1,3 @@
-# CIDNet
-代码公布
 # CIDNet: Cross-Scale Interference Mining Detection Network for underwater object detection
 
 This repository contains the code (in PyTorch) for the paper: ([IEEE TII](https://ieeexplore.ieee.org/document/10496913))
