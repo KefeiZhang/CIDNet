@@ -39,22 +39,26 @@ The basic installation follows with [mmdetection](https://github.com/mousecpn/mm
 
 Other underwater datasets: https://github.com/mousecpn/Collection-of-Underwater-Object-Detection-Dataset
 
-After downloading all datasets, create udmdet document.
+After downloading all datasets, create CIDNet document.
 
 ```
 $ cd data
-$ mkdir udmdet
+$ mkdir CIDNet
 ```
 
 It is recommended to symlink the dataset root to `$data`.
 
 ```
-udmdet
+CIDNet
 ├── data
 │   ├── DUO
 │   │   ├── annotaions
 │   │   ├── train2017
 │   │   ├── test2017
+│   ├── COCO
+│   │   ├── annotaions
+│   │   ├── train2017
+│   │   ├── val2017
 ```
 
 
