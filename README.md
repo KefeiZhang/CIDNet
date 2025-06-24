@@ -27,8 +27,6 @@ https://www.researchgate.net/publication/390270613_CIDNet.
 - Python == 3.7.11
 - PyTorch == 1.10.1
 - mmdetection == 2.22.0
-- mmcv == 1.4.0
-- numpy == 1.21.2
 
 ## Installation
 
