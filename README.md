@@ -1,6 +1,6 @@
 # CIDNet: Cross-Scale Interference Mining Detection Network for underwater object detection
 
-This repository contains the code (in PyTorch) for the paper: [KBS]
+This repository contains the official PyTorch implementation of our paper accepted by Knowledge-Based Systems (KBS).
 
 If you use this code, please cite our paper, and hit the star at the top-right corner. Thanks!
 ## Introduction
