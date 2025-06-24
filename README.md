@@ -63,7 +63,8 @@ udmdet
 ## Train
 
 ```
-$ python tools/train.py configs/CIDNet/CIDNet_tood_r50_fpn_based_2x_duo.py
+We provide multiple training strategies for users to choose from, offering flexibility for different application scenarios.
+$ python tools/train.py configs/CIDNet/XXX
 ```
 
 
