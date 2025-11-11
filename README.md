@@ -2,7 +2,6 @@
 
 This repository contains the official PyTorch implementation of our paper accepted by Knowledge-Based Systems (KBS).
 
-If you use this code, please cite our paper, and hit the star at the top-right corner. Thanks!
 ## Introduction
 Underwater object detection plays a crucial role in advancing marine economics, protecting the environment, 
 and promoting the planet’s sustainable development. Compared to land-based scenes, underwater object 
