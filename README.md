@@ -74,6 +74,12 @@ $ python tools/train.py configs/CIDNet/XXX
 ![pipeline](./img/result.jpg)
 
 
+## Checkpoint
+We provide the trained model checkpoint for reproducibility:
+
+Best checkpoint: Best_pth.pth
+Baidu Netdisk link: https://pan.baidu.com/s/1JDaZPTOiVoZdhsKBJ3hEmg
+Extraction code: CIDN
 
 ## Acknowledgement
 
