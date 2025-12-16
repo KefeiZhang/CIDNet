@@ -37,8 +37,8 @@ class CocoDataset(CustomDataset):
     #            'oven', 'toaster', 'sink', 'refrigerator', 'book', 'clock',
     #            'vase', 'scissors', 'teddy bear', 'hair drier', 'toothbrush')
 
-    CLASSES = ('crack', 'finger', 'black_core', 'thick_line', 'star_crack', 'corner', 'fragment', 'scratch',
-               'horizontal_dislocation', 'vertical_dislocation', 'printing_error', 'short_circuit')
+    CLASSES = ('holothurian', 'echinus', 'scallop', 'starfish')
+
     PALETTE = [(0, 255, 187), (0, 228, 0), (255, 50, 0), (78, 180, 255),
                (106, 0, 228), (0, 60, 100), (0, 80, 100), (0, 0, 70),
                (0, 0, 192), (250, 170, 30), (100, 170, 30), (220, 220, 0),
