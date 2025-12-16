@@ -66,6 +66,8 @@ CIDNet
 ```
 We provide multiple training strategies for users to choose from, offering flexibility for different application scenarios.
 $ python tools/train.py configs/CIDNet/XXX
+$ python tools/test.py configs/CIDNet/CIDNet_tood_r50_fpn_anchor_based_mstrain_2x_duo.py work_dirs/XXX.pth --eval bbox
+
 ```
 
 
