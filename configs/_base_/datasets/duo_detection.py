@@ -1,7 +1,7 @@
 # dataset settings
 dataset_type = 'CocoDataset'
-classes = ('crack', 'finger', 'black_core','thick_line','star_crack','corner','fragment','scratch','horizontal_dislocation','vertical_dislocation','printing_error','short_circuit')
-data_root = 'data/solar/'
+classes = ('holothurian', 'echinus', 'scallop', 'starfish')
+data_root = 'data/DUO/'
 img_norm_cfg = dict(
     mean=[123.675, 116.28, 103.53], std=[58.395, 57.12, 57.375], to_rgb=True)
 train_pipeline = [
