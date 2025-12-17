@@ -1,8 +1,8 @@
 _base_ = './CIDNet_tood_r50_fpn_2x_duo.py'
 # learning policy
 model = dict(bbox_head=dict(anchor_type='anchor_based'))
-lr_config = dict(step=[16, 22]) # 16 22 改为 24 34
-runner = dict(type='EpochBasedRunner', max_epochs=24)  #24改为36
+lr_config = dict(step=[24, 34]) # 16 22 改为 24 34
+runner = dict(type='EpochBasedRunner', max_epochs=36)  #24改为36
 # multi-scale training
 img_norm_cfg = dict(
     mean=[123.675, 116.28, 103.53], std=[58.395, 57.12, 57.375], to_rgb=True)
